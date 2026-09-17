@@ -1,5 +1,5 @@
 # dive.radio/skills redirect
 
-`dive-radio-promo-vercel.json` is the `vercel.json` deployed to the `dive-radio-promo` Vercel project (team toolbenders) on 2026-09-17 so that `dive.radio/skills` redirects to the public Notion skills library.
+`dive.radio` is served by the `dive-radio-dial` repo (github.com/tommygeoco/dive-radio-dial), deployed by Vercel from `main` to the `dive-radio-promo` project. The `/skills` redirect to the public Notion skills library lives in that repo's `vercel.json` (commit ff92ab1, 2026-09-17) next to the `/vote` proxy rewrites. Change it there.
 
-The project's source was not on this machine and has no git link, so the deploy was a static mirror of the live build (index.html, /assets, /audio, favicon, robots) plus this file, with `framework: null` so Vercel skips `vite build`. Any future deploy from the real Vite source must include these `redirects` or the path goes back to 404. Rollback: `vercel rollback` in the project.
+Do not deploy a mirror of the built site to that project: it drops the rewrites and takes dive.radio/vote down (happened 2026-09-17 12:20–12:32, fixed by rollback). After a rollback, Vercel pins production until the next build is promoted (`vercel promote <url>`).
