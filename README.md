@@ -8,11 +8,15 @@ One skill per episode of Dive Radio. Each skill is a `SKILL.md` in the Agent Ski
 
 ## Install
 
-Claude Code: copy the folder into `~/.claude/skills/` (global) or `.claude/skills/` in a project, then type `/design-job-search-coach` or just paste a posting and ask for help pursuing it.
+**Any agent (Claude Code, Codex, Cursor, Gemini, Grok):**
 
-Codex / Cursor / others: point the agent at the `SKILL.md`, or paste its contents as the system instruction for the task.
+```bash
+npx skills add tommygeoco/dive-radio-skills
+```
 
-Notion: the same skill is a page in the Dive Radio Skills Library; run it from the Agent with `/` or let the Agent pick it automatically.
+That is the Vercel skills CLI; it copies each skill folder into your agent's skills directory. Or copy `design-job-search-coach/` into `~/.claude/skills/` by hand.
+
+**Notion:** the same skills live in the public Dive Radio Skills Library (https://dive.radio/skills). Members of the uxtoolsco workspace can run them from Notion Agent; everyone else installs with the command above.
 
 ## Contributing a skill
 
