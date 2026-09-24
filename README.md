@@ -5,6 +5,7 @@ One skill per episode of Dive Radio. Each skill is a `SKILL.md` in the Agent Ski
 | Skill | Episode | Replay |
 |---|---|---|
 | `design-job-search-coach` | E9 — How Designers Are Getting Hired in 2026 (Sep 10, 2026) | https://www.youtube.com/live/OZG115v6TTg |
+| `founding-role-check` | E10 — How To Become a Founding Designer (Sep 17, 2026) | https://www.youtube.com/watch?v=x05zZ90lY28 |
 
 ## Install
 
