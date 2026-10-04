@@ -1,0 +1,14 @@
+SAMPLE INPUT, written for this test. Not a real person or company. It is shaped like a typical message from a solo in-house brand designer at a 60-person B2B software company, with some numbers missing on purpose.
+
+I'm the only brand designer at a 60-person B2B company (we sell scheduling software to clinics). Here's what eats my week. Rough numbers.
+
+- Blog OG images: marketing asks. 20 min each, about 3 a week. Forever, we blog every week.
+- Customer quote cards for LinkedIn: marketing and sales ask. 15 min each, 4-6 a week. Ongoing. Half of the ones sales made themselves in Canva last quarter used the old logo and the wrong green.
+- Webinar promo kit (LinkedIn banner, email header, 16:9 title slide, 9:16 story): 2 hours per webinar, one webinar a month. Ongoing.
+- Feature launch hero images for the changelog: 45 min each, 2-3 a month. Ongoing.
+- Conference booth backdrop and signage: 3 days, once a year.
+- Sales deck: sales rebuild one slide at a time and ask me to "fix it". No idea how long, it's constant.
+- Product screenshots in brand frames for the website and help center: 10 min each, sometimes 30 in a week after a UI change, sometimes none for a month.
+
+Who'd use a tool: marketing (2 people, one of them is comfortable in code), sales (8 people, not technical).
+I can use Claude and Cursor. We're on Next.js. I've never built an internal tool. I'd guess a day or two for something simple but I honestly don't know.

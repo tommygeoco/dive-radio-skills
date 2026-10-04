@@ -1,0 +1,98 @@
+REAL INPUT. Devin's first run (Cognition's AI software engineer, app.devin.ai) for a non-enterprise team, as Devin's own public docs describe it. Read 2026-10-03. Every line below is copied from the page named above it; "[...]" marks a cut between copied passages, never a change inside one. Table rows and card titles are joined to their text with a colon. Markdown links and bold were dropped. Nothing here was watched in the product, so timings and screens are only what the docs say.
+
+Pasted by the user with this note: "I'm a designer looking at Devin's onboarding as a reference for ours. Here's their first run, straight from their docs. Review it."
+
+=== 1. Sign up. https://docs.devin.ai/get-started/devin-intro ===
+To access Devin, sign up at app.devin.ai. Individual and Teams plans are available.
+[...]
+In some cases Devin may not function exactly as referenced, or documentation may be out of date.
+
+=== 2. Connect GitHub. https://docs.devin.ai/onboard-devin/environment ("Before you start") and https://docs.devin.ai/integrations/gh ===
+Before configuring Devin's environment, make sure Devin can access your repositories:
+Non-enterprise users
+1. Connect your SCM provider. Go to Settings > Connections and connect GitHub, GitLab, Bitbucket, or Azure DevOps. Select which repositories Devin can access during setup.
+That's it. Once connected, you can proceed to environment configuration.
+[...]
+You must be an admin of your GitHub organization to create and manage the Devin integration.
+1. In your Devin account, open Settings → Connections → GitHub and click Add Connection.
+2. If you are not already logged in to GitHub, you will be prompted to authenticate.
+3. Select the GitHub organization you want to connect to Devin.
+4. Choose whether to grant Devin access to All repositories or Select repositories to control which repositories Devin can access.
+5. After completing the GitHub authorization, you will be redirected to Devin settings where you can confirm the integration is active.
+
+=== 3. Index the repository. https://docs.devin.ai/onboard-devin/index-repo ===
+Repository indexing is separate from environment configuration. Indexing enables code search and understanding features, while environment configuration sets up Devin's development environment.
+1. Go to app.devin.ai and ensure you're logged into your organization
+2. Click on Settings in the sidebar to access your organization settings
+3. Select DeepWiki and scroll to the Repositories section, which lists the repositories your organization has already indexed
+4. Click Add
+5. In the Add repositories dialog, check every repository you want Devin to index, then click Add repositories
+6. Wait for indexing to complete — newly added repositories show Indexing… until they're ready, which may take a few minutes depending on repository size
+[...]
+Once complete, you'll have access to:
+Ask Devin - Ask questions about your codebase and get detailed, accurate answers powered by advanced code search. You can also use Ask Devin to scope and plan tasks.
+DeepWiki - Explore auto-generated documentation for your repositories
+
+=== 4. Set up the environment. https://docs.devin.ai/onboard-devin/environment ===
+Without one, Devin can't build your project, can't run your tests, and can't verify its own work. It would be like hiring a developer and not giving them a laptop.
+[...]
+This is the single highest-leverage thing you can do to improve Devin's effectiveness on your codebase.
+[...]
+Start a Devin session and ask:
+"Set up your environment for this repo."
+Devin explores your repository: Devin inspects your codebase and figures out which tools, runtimes, and dependencies it needs.
+Review the suggestions: Devin proposes a blueprint as suggestion cards in the timeline. Review the proposed setup and approve the cards you want to use.
+A build creates the snapshot: Devin runs a build from the approved blueprint and produces the snapshot that every session boots from.
+[...]
+Devin can infer tools and dependencies from your repository, but it cannot discover your credentials.
+Store sensitive values as encrypted Secrets in the blueprint editor's Secrets tab
+
+=== 5. First session. https://docs.devin.ai/get-started/first-run ===
+Before you start your first session, make sure you've indexed and set up your repositories. These are the foundational steps that help Devin understand and work with your codebase.
+Now that you're all set up, kick off your first Devin session!
+[...]
+When you start a new session, you'll see two primary modes: Ask and Agent.
+Unless you already have a fully scoped plan, we recommend starting with Ask to work with Devin on constructing a plan, then moving to Agent mode to execute it.
+[...]
+The agent selector in the message box controls which agent runs your session.
+Lite: Simple, well-scoped tasks at the lowest cost.
+Normal: The default. Balances cost and capability for everyday work.
+Ultra: The hardest tasks. Most capable, and significantly more expensive.
+Fusion: Frontier-level results at lower cost, by pairing a frontier model with a cost-efficient one.
+SWE-2 (research preview): Cognition's own software engineering model. Pick a reasoning effort of Medium, High, or Max.
+[...]
+Available agents include:
+Devin (default) — A general-purpose AI software engineer for building features, fixing bugs, refactoring code, and most development tasks.
+Fast Mode — An optimized mode for quick, well-scoped tasks.
+Data Analyst (DANA) — A data analyst agent optimized for querying databases, analyzing data, and creating visualizations.
+[...]
+First-time Prompt Ideas: Adding a new API endpoint; Small frontend features; [and more]
+
+=== While Devin works. https://docs.devin.ai/get-started/devin-intro ===
+In Devin's Workspace, you'll find developer tools that Devin will use to complete your task.
+Shell: Devin's terminal, where you can watch commands being executed and view output logs.
+IDE: Devin's embedded code editor [...] Follow Devin's work real-time and take over to run commands, make direct code edits or test Devin's code.
+Browser: Watch Devin browse through documentation, test web applications it builds, download/upload information, and more.
+
+=== Add-ons. https://docs.devin.ai/integrations/overview and https://docs.devin.ai/product-guides/plugins ===
+Native integrations: Repository access, starting sessions from Slack or tickets, and other built-in workflows. [...] Native connections such as Slack, Jira, and Linear remain under Settings → Connections.
+Plugins and MCP servers: Giving Devin tools to query data and act in external services, with optional skills explaining how to use them. Install plugins from Customize → Plugins and manage MCP connections in Customize → MCPs.
+Secrets Manager: API keys and credentials for command-line tools or custom workflows.
+[...]
+A plugin bundles skills — and optionally rules, hooks, MCP servers, and subagents — so it can be installed and reused as a unit.
+[...]
+It has five tabs: Plugins [...] Skills [...] MCPs [...] Hooks [...] Rules
+
+=== What Devin remembers. https://docs.devin.ai/product-guides/knowledge ===
+Knowledge is deprecated and will be removed in a future update. Existing Knowledge is being migrated to Skills in Plugins automatically
+[...]
+Knowledge is a collection of tips, advice, and instructions that Devin can reference in all sessions. [...] Devin will automatically recall relevant Knowledge as necessary.
+[...]
+Devin will automatically suggest Knowledge to remember based on your feedback in chat. Edit the suggested Knowledge before saving, or dismiss the Knowledge if it's not helpful.
+[...]
+Each knowledge item can be individually enabled or disabled per user.
+
+=== Disconnecting. https://docs.devin.ai/integrations/gh ===
+To remove the link later, click Unlink user on the same row. Devin revokes the OAuth token with GitHub when you unlink.
+[...]
+You can adjust repository access at any time through GitHub's settings

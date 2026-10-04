@@ -4,8 +4,16 @@ One skill per episode of Dive Radio. Each skill is a `SKILL.md` in the Agent Ski
 
 | Skill | Episode | Replay |
 |---|---|---|
+| `wiki-fed-critic` | E3 — Mixed Media Workflows, Game Design (Jul 30, 2026) | https://youtu.be/szvTFybWfK4 |
+| `concept-image-splitter` | E4 — Backyard Designers behind-the-scenes (Aug 6, 2026) | https://youtu.be/ziyWxt6qzfM |
+| `parallel-to-prod` | E5 — Goodbye, Blank Canvas (Aug 13, 2026) | https://youtu.be/G2_F3dd3RkA |
+| `mascot-brief-check` | E6 — The Mascot Industrial Complex (Aug 20, 2026) | https://youtu.be/eLA79C1jq1g |
+| `agent-first-run-review` | E7 — Steal These AI Design Patterns (Aug 27, 2026) | https://youtu.be/qPAPUmg_qZE |
+| `brand-tool-check` | E8 — How to Engineer a Brand Universe (Sep 3, 2026) | https://youtu.be/lnAecYrKYos |
 | `design-job-search-coach` | E9 — How Designers Are Getting Hired in 2026 (Sep 10, 2026) | https://www.youtube.com/live/OZG115v6TTg |
 | `founding-role-check` | E10 — How To Become a Founding Designer (Sep 17, 2026) | https://www.youtube.com/watch?v=x05zZ90lY28 |
+| `component-stress-test` | E11 — Just-in-Time Interfaces (Sep 24, 2026) | https://youtu.be/2EAAU-knqRE |
+| `motion-promo-brief` | E12 — Anyone Can Animate Now (Oct 1, 2026) | https://youtu.be/bwJB9EBQNSQ |
 
 ## Install
 

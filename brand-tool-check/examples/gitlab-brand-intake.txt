@@ -1,0 +1,63 @@
+REAL INPUT. GitLab's Brand Creative Handbook, the public page where GitLab's brand design team lists what other teams ask it for and how: https://handbook.gitlab.com/handbook/marketing/brand-and-product-marketing/design/ (read 2026-10-03). Every line below is copied from that page; "[...]" marks a cut between copied passages, never a change inside one. Section headings in === are added for reading. Bulleted sub-items are joined on one line with semicolons. Typos ("Miinimum") are GitLab's.
+
+Test framing: run as if someone on GitLab's brand design team pasted their own intake page and asked "which of these should we turn into a tool?" The page gives turnaround times but no minutes per piece and no request counts. No numbers were added.
+
+=== Turnaround (SLA) ===
+Below are the SLAs for our key request types: brand reviews, design requests, custom merch, team expressions, and video requests.
+Please note that minimum turnaround times begin from the date we receive all the necessary information to start the design and NOT from the date your request is submitted.
+[...]
+Brand Review requests - Minimum of 1 week for turnaround
+This includes time for any discussion or feedback to be addressed and reviewed again. Initial review will typically happen within 72 hours.
+Design Requests - Miinimum of three weeks for turnaround
+Merch requests - Minimum of four weeks for turnaround
+[...]
+Tanuki Tab for Teams Expressions requests - Minimum of four weeks for turnaround
+A Tanuki Tab should be created first using the “Tanuki Tab for Team Expressions” issue template linked in the below section before merch or additional asset requests are addressed.
+[...]
+Please review the GitLab Team Expressions Style Guide that we will be utilizing for your Tanuki Tab request.
+
+=== Event requests ===
+To ensure event requests can move directly into production, all specs, templates, and/or dimensions must be provided at the time of submission. We are unable to begin design work without this information.
+[...]
+Incomplete submissions and short-turnaround requests have become a regular pattern, making it difficult for the team to maintain capacity for true urgent situations.
+
+=== Request types (issue templates) ===
+Blog Image Request
+Content Design Request - Please use this issue request template for net new creative or refreshes needed for the following asset types: eBook / Solution Briefs; Informational Graphics / Diagrams; One-Pager / Two-Pager; Quarterly Update of Executive Candidate Info Packet; Surveys; Whitepaper
+Digital Advertising Request- Please use this issue template when requesting net new or refreshing digital advertising assets such as: Paid Social; Organic Social; Native Ads; Display Assets
+Email Asset Request
+Event Asset Request - Use this template when requesting net new or refreshed event-related assets, including: Event Booth; Event Signage; Event Social Posts
+Booth requests: Do not reopen previously closed issues for net new booth asks. Booth creative always requires a full design refresh rather than a simple asset edit, and messaging evolves quickly enough that previously used creative may already be outdated.
+Illustration + Iconography Requests
+OOH Requests
+Presentation Request - Please use this issue request template for updating existing presentation decks or when requesting design for net new decks.
+General Design Request - If your design request does not fall within one of the above categories, or if you need a Zoom background, please use this issue template to request a new design of multiple or a single asset.
+Tanuki Tab Request for Team Expressions - Please use this issue template for custom badge or assets for your TMRG, Department or special project. Be sure to review the GitLab Team Expressions Style Guide, as this will be the system used for your Tanuki Tab request.
+Video Edit Request - Please use this issue when requesting an update to an existing video or edits to video footage such as adding lower thirds, bumpers or slides to a zoom recording.
+
+=== Why Tanuki Tabs exist ===
+In 2024, we launched the Team Expressions Tanuki Tabs to specifically address the community’s need for creative expression in a way that still preserves our logo. This scalable system empowers the community to express their vibrant groups — including community groups, geo locations, business functions, and TMRGs — without altering our logo.
+[...]
+Our small Brand Design team supports the growing creative needs of the entire company, prioritizing work that aligns with business goals and drives clear business value. Custom logo requests multiplied beyond our team’s capacity and don’t align with our strategic priorities.
+
+=== What other teams can already make themselves ===
+Canva enables team members to self-service design needs and create on-brand assets quickly by leveraging branded design templates. Canva also supports internal brand approvals for team-member submitted designs directly in the platform. Canva is ideal for digital ads and promotional assets, rather than content-heavy or print collateral.
+[...]
+We have a limited number of seats available, so we encourage teams to consolidate the number of people on their team who need access.
+[...]
+All self-service assets require brand review before use.
+[...]
+We have templates in all ad sizes, in addition to other promo and resources.
+[...]
+Easily resize your file if you are replicating the design in different dimensions. Resize the elements on your design accordingly, as they get shifted when the file is resized.
+[...]
+Most one-pagers can be self-serviced using one of our Google Doc templates.
+[...]
+Digital ads often need to be customized after creation, and for that reason we encourage Canva for easier self-service.
+
+=== How the team works ===
+Small projects: Smaller projects are typically assigned to one designer and completed within 2 weeks.
+[...]
+Know the tools: be proficient in the Adobe Suite and Figma (for designing), Mural and FigJam (for brainstorming), Canva (for creating self-service assets), and the Google Suite (for company-wide materials).
+[...]
+Recurring events that we host (Sales Kickoff, Contribute, Commit) have a different theme each year, which inspires a new creative direction.

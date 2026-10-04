@@ -1,0 +1,148 @@
+{
+  "_source": "excalidraw/excalidraw @ ed10ac7, packages/excalidraw/locales (en.json, de-DE.json, 57 other locale files). German is the repo own translation, not a test translation.",
+  "clearCanvasDialog.title": {
+    "en": "Clear canvas",
+    "de": "Zeichenfläche löschen",
+    "longest": {
+      "locale": "si-LK",
+      "chars": 30,
+      "value": "කැන්වසය පිරිසිදු කිරීමේ සංවාදය"
+    },
+    "missing": [
+      "az-AZ",
+      "bn-BD",
+      "bn-IN",
+      "da-DK",
+      "kaa",
+      "kk-KZ",
+      "my-MM",
+      "uz-UZ",
+      "zh-HK"
+    ]
+  },
+  "alerts.clearReset": {
+    "en": "This will clear the whole canvas. Are you sure?",
+    "de": "Dies wird die ganze Zeichenfläche löschen. Bist du dir sicher?",
+    "longest": {
+      "locale": "pl-PL",
+      "chars": 71,
+      "value": "To spowoduje usunięcie wszystkiego z dokumentu. Czy chcesz kontynuować?"
+    },
+    "missing": [
+      "kaa",
+      "kk-KZ",
+      "lt-LT",
+      "th-TH",
+      "uz-UZ"
+    ]
+  },
+  "confirmDialog.removeItemsFromLib": {
+    "en": "Remove selected items from library",
+    "de": "Ausgewählte Elemente aus der Bibliothek entfernen",
+    "longest": {
+      "locale": "fr-FR",
+      "chars": 52,
+      "value": "Enlever les éléments sélectionnés de la bibliothèque"
+    },
+    "missing": [
+      "az-AZ",
+      "bg-BG",
+      "bn-BD",
+      "bn-IN",
+      "da-DK",
+      "kaa",
+      "kk-KZ",
+      "my-MM",
+      "th-TH",
+      "uz-UZ",
+      "zh-HK"
+    ]
+  },
+  "alerts.removeItemsFromsLibrary": {
+    "en": "Delete {{count}} item(s) from library?",
+    "de": "{{count}} Element(e) aus der Bibliothek löschen?",
+    "longest": {
+      "locale": "bn-BD",
+      "chars": 59,
+      "value": "সংগ্রহ থেকে {{count}} বস্তু বিয়োগ করা হবে। আপনি কি নিশ্চিত?"
+    },
+    "missing": [
+      "az-AZ",
+      "da-DK",
+      "kaa",
+      "kk-KZ",
+      "my-MM",
+      "th-TH",
+      "uz-UZ",
+      "zh-HK"
+    ]
+  },
+  "confirmDialog.resetLibrary": {
+    "en": "Reset library",
+    "de": "Bibliothek zurücksetzen",
+    "longest": {
+      "locale": "si-LK",
+      "chars": 37,
+      "value": "පුස්තකාලය යළි සකස් කිරීම තහවුරු කරන්න"
+    },
+    "missing": [
+      "az-AZ",
+      "bn-BD",
+      "bn-IN",
+      "da-DK",
+      "kk-KZ",
+      "my-MM",
+      "uz-UZ",
+      "zh-HK"
+    ]
+  },
+  "alerts.resetLibrary": {
+    "en": "This will clear your library. Are you sure?",
+    "de": "Dies löscht deine Bibliothek. Bist du sicher?",
+    "longest": {
+      "locale": "pa-IN",
+      "chars": 73,
+      "value": "ਇਹ ਤੁਹਾਡੀ ਲਾਇਬ੍ਰੇਰੀ ਨੂੰ ਸਾਫ ਕਰ ਦੇਵੇਗਾ। ਕੀ ਤੁਸੀਂ ਪੱਕਾ ਇੰਝ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    "missing": [
+      "az-AZ",
+      "da-DK",
+      "kaa",
+      "kk-KZ",
+      "my-MM",
+      "th-TH",
+      "uz-UZ",
+      "zh-HK"
+    ]
+  },
+  "buttons.cancel": {
+    "en": "Cancel",
+    "de": "Abbrechen",
+    "longest": {
+      "locale": "ku-TR",
+      "chars": 13,
+      "value": "هەڵوەشاندنەوە"
+    },
+    "missing": [
+      "kk-KZ",
+      "my-MM",
+      "uz-UZ",
+      "zh-HK"
+    ]
+  },
+  "buttons.confirm": {
+    "en": "Confirm",
+    "de": "Bestätigen",
+    "longest": {
+      "locale": "bg-BG",
+      "chars": 13,
+      "value": "Потвърждаване"
+    },
+    "missing": [
+      "kk-KZ",
+      "my-MM",
+      "uz-UZ",
+      "zh-HK"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+SAMPLE INPUT, written for this test. "Margin" is not a real product; the flow is a made-up but typical agent-app first run, built to exercise every step of the skill.
+
+Product: Margin, a research agent for product teams. Web app.
+
+First run, as the team describes it:
+
+1. Landing page, "Get started" button. Sign up with Google only. The Google consent screen asks for: Gmail (read), Google Calendar (read), Google Drive (read).
+2. "Meet Margin" tour: four full-screen cards with animation, about 45 seconds total, "Next" button on each card. No skip button on cards 1 to 3. No sound.
+3. "Tell us about you": role (dropdown), team size (dropdown), "What do you want Margin to help with?" (free text, required, 20 characters minimum).
+4. "Connect your tools": Slack, Notion, Linear, GitHub, Google Drive. Each opens its own login. Copy: "Connect at least 2 to continue."
+5. "Margin is getting to know your workspace": full-screen page, centered spinner, rotating line "Reading your workspace..." Our docs say this "usually takes 2 to 6 minutes." Nothing else on the page. The user cannot leave this screen until indexing finishes.
+6. Home: a chat box with three suggested prompts ("Summarize last week's customer calls", "What did we ship in September?", "Draft a PRD from #feedback"). The first answer streams in. Tool calls show as raw JSON in a block that is expanded by default.
+
+Other notes:
+- Settings > Integrations has three tabs: "Connectors", "MCP servers", "Skills".
+- Settings > Privacy has a toggle: "Margin learns from your conversations." On by default. There is no page that shows what it has learned.
+- Integrations have a "Remove" button. The docs do not say what happens to data Margin already indexed from that tool.
+- Margin is one chat thread per user. There is no way to start a second thread.

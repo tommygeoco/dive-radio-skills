@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<title>ConfirmDialog contact sheet · excalidraw @ ed10ac7</title>
+<style>
+  body { font: 14px/1.4 system-ui, sans-serif; margin: 24px; color: #111; }
+  h1 { font-size: 18px; margin: 0 0 4px; }
+  p.meta { color: #555; margin: 0 0 20px; }
+  .row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 28px; }
+  figure { margin: 0; border: 1px solid #ddd; border-radius: 6px; padding: 8px; }
+  img { width: 100%; display: block; }
+  .narrow img { width: 220px; }
+  figcaption { font-size: 12px; color: #333; margin-top: 6px; }
+  h2 { font-size: 15px; margin: 0 0 8px; }
+</style>
+<h1>ConfirmDialog: every instance and state, EN and DE</h1>
+<p class="meta">Rendered from the live app at excalidraw.com on 2026-10-03, driven by capture.mjs. Source read from github.com/excalidraw/excalidraw at commit ed10ac7. German is the repo's own de-DE.json. States 2, 3 and 4 use sample, not from the code: library items (rectangles) that the capture scripts add to the library during the run.</p>
+
+<h2>1. Clear canvas · ActiveConfirmDialog.tsx:22 · triggers: main menu (DefaultItems.tsx:226), command palette (CommandPalette.tsx:399), Cmd+Delete (App.tsx:5563)</h2>
+<div class="row">
+  <figure><img src="shots/clear-canvas-en.png"><figcaption>EN · desktop 1280px</figcaption></figure>
+  <figure><img src="shots/clear-canvas-de-DE.png"><figcaption>DE · desktop 1280px</figcaption></figure>
+</div>
+<div class="row narrow">
+  <figure><img src="shots/clear-canvas-en-360px.png"><figcaption>EN · 360px wide (dialog goes full screen)</figcaption></figure>
+  <figure><img src="shots/clear-canvas-de-DE-360px.png"><figcaption>DE · 360px wide</figcaption></figure>
+</div>
+
+<h2>2. Reset library (no items selected) · LibraryMenuHeaderContent.tsx:65, :68, :70</h2>
+<div class="row">
+  <figure><img src="shots/reset-library-en.png"><figcaption>EN · desktop · library has 1 item, none selected · sample, not from the code</figcaption></figure>
+  <figure><img src="shots/reset-library-de-DE.png"><figcaption>DE · desktop</figcaption></figure>
+</div>
+
+<h2>3. Remove selected items (1 selected) · LibraryMenuHeaderContent.tsx:64, :67, :70</h2>
+<div class="row">
+  <figure><img src="shots/remove-selected-en.png"><figcaption>EN · desktop · count = 1 · sample, not from the code</figcaption></figure>
+  <figure><img src="shots/remove-selected-de-DE.png"><figcaption>DE · desktop · count = 1</figcaption></figure>
+</div>
+<h2>4. Remove selected items (2 selected) · LibraryMenuHeaderContent.tsx:64, :67, :70 · capture-count2.mjs</h2>
+<div class="row">
+  <figure><img src="shots/remove-selected-count2-en.png"><figcaption>EN · desktop · count = 2 · sample, not from the code</figcaption></figure>
+  <figure><img src="shots/remove-selected-count2-de-DE.png"><figcaption>DE · desktop · count = 2 · sample, not from the code</figcaption></figure>
+</div>
+<p class="meta">Not rendered: states 2, 3 and 4 at 360px; the longest non-German strings listed in strings.json.</p>
+</html>

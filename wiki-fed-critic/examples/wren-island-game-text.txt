@@ -1,0 +1,516 @@
+Player-facing text strings pulled from the public JS bundle of https://the-last-broadcast-wren-island.netlify.app/ (assets/index-PyLFmrcx.js) on 2026-10-03, in bundle order. Evidence for the critic pass only.
+
+- DetermineComponentFrameRoot
+- WQWR is quieter than you remember. Rain taps the booth glass, and every old machine seems to be waiting for a voice.
+- The reel-to-reel is threaded with brittle brown tape. Someone left it cued halfway through a recording.
+- The console is still warm. Faders sit at careful angles, as if someone mixed a broadcast and walked away mid-breath.
+- The broadcast microphone smells faintly of dust and warm metal. The ON AIR bulb above it is dark.
+- You step closer to the archive door.
+- Beyond the rain-streaked glass, the harbor fog smothers the tower lights one by one.
+- The station door leads back to the cliff road and the harbor below.
+- The archive door is shut tight. Through the little window, rows of old tapes wait in the dark.
+- The handle turns halfway and catches. Nora did not leave this part unlocked.
+- You step back from the archive door.
+- The tide gauge is bolted to a piling near the shed. Its paper drum still shows a high-water spike at the hour everyone insists the harbor was impassable.
+- A brass tag is wedged under the split dock plank. Someone hid it where only a person searching the old mooring line would look.
+- Cal's workshop windows glow against the rain. Old registration cards are pinned inside, some curled black from damp.
+- An old winch sits slick with rain near the mooring line. Fresh scrape marks cut through the brass-green corrosion.
+- The cliff road climbs back toward the radio station.
+- The road bends inland toward Gull's Nest Diner.
+- At low tide, the stones beyond the harbor point toward the chapel ruins.
+- The photo wall is crowded with fishing trophies, church picnics, and WQWR call-in nights. One faded picture catches the jukebox in the background.
+- The coffee machine is older than half the island rumors, but Mina keeps it polished and listening.
+- The register tape still shows storm-night cash totals. Mina kept the receipt roll long after the drawer stopped balancing.
+- A Gull's Nest matchbook sits beside the register. Someone pressed four small staff marks into the inside flap.
+- The jukebox hums with a tired neon buzz. Its hand-lettered card reads: Choir Special - one token.
+- The diner door opens back toward the harbor road.
+- The aisle leads back out to the harbor road.
+- A wet back road climbs from the diner toward the chapel ruins.
+- The hymn board leans under the chapel wall, its numbers warped by salt air and candle soot.
+- The low road leads back toward Gull's Nest Diner.
+- The cliff road rises toward the lighthouse grounds.
+- Below the chapel stones, the tide has pulled back from a service opening.
+- A metal signal panel hums under the keeper shed eave. The newest screws are clean enough to shine.
+- A relay box is strapped behind the lighthouse support struts, hidden just outside the main service path.
+- A weatherproof log cache sits by the keeper shed door, half-hidden under stacked crates and rain-dark rope.
+- The cliff road drops back toward the chapel ruins.
+- The service road cuts back toward WQWR and its archive door.
+- The shelf index is older than the station logo. One drawer has been opened recently, leaving a gap in the dust.
+- You step back to the archive door.
+- The archive-room door leads back into the WQWR booth.
+- The cable run disappears through the chapel wall and returns in a newer bundle. Someone has been feeding the old relay from below.
+- A wet reel fragment sits beside the junction box. The splice mark matches the archive table's grease pencil.
+- The tunnel bends toward colder air and the shape of a sealed broadcast room.
+- The tunnel mouth slopes back toward the chapel stones and rain.
+- The emergency transmitter is hot enough to fog the wet metal around it. The room was built to make one last broadcast unavoidable.
+- The tape deck still carries Silas's splice pattern. The missing fragment belongs here, just before the final denial becomes a confession.
+- The evidence table has room for every piece: boat, tide, keeper, transmitter, and tape.
+- The tunnel exit waits beyond the relay-room threshold.
+- The broadcast switch would put the evidence across every storm radio still tuned to WQWR.
+- The sealed case could keep the proof chain intact until morning, away from whoever is still listening.
+- You have fragments, Elliot. Broadcast them now and every family on this island bleeds for your headline.
+- I can testify. I can show them the relay logs. Just do not leave me alone with her version of this.
+- You step back into the booth.
+- You move in close enough to see rain tremble in the archive door's little pane.
+- The archive room opens on stale tape, warm dust, and one more locked-away version of the island.
+- Gull Point Harbor waits under a hard rain. Cal Rusk should be somewhere near the boat sheds.
+- Gull's Nest Diner glows against the storm, all coffee heat and old island photographs.
+- The chapel ruins crouch below the tide line. Every stone seems to hold its breath.
+- The lighthouse grounds rise above the storm, fenced in by sea wind, warning signs, and a signal that should be dead.
+- The under-chapel service tunnel opens at low tide, all wet stone, old cable, and air that tastes like copper.
+- The final broadcast room is real: a buried relay chamber with enough live equipment to put the island on the air one last time.
+- Vivian Cross and Theo March arrive before the last switch is thrown. The relay room is suddenly much smaller.
+- You return to WQWR, where the old machines keep waiting in the dark.
+- You follow the cliff road down to Gull Point Harbor. The rain changes here, sharper with salt and diesel.
+- You step into Gull's Nest Diner. The windows are steamed white, and every booth seems to have heard a version of Cal's story.
+- The low-tide path to the chapel is open. Somewhere below the stones, water knocks like a hand at a door.
+- The cliff road ends at the lighthouse gate. The beam turns slowly through rain, but the relay noise is modern, close, and very much alive.
+- You enter through the chapel stones at low tide. The old service tunnel is not abandoned; it is listening.
+- The sealed room is warmer than the tunnel, alive with tubes, tape motors, and a signal that has been waiting under the chapel for decades.
+- That old diner junk is where the tune starts, sugar. The photo wall and jukebox remember more faithfully than people do.
+- That log is older than my mess, but it points at the same hands. Vivian knew which history to restore and which history to bury.
+- Run it through the board. If Silas Wren left a confession hiding in oxide, the console will tell us before I do.
+- That part of the island is still out of reach.
+- The tide gauge proves a boat could have left Gull Point during the hour Cal dismissed. The contradiction is small, but it is real.
+- You work the brass tag free. G-14. The number is worn, but not enough to hide what it was.
+- The workshop ledger skips exactly the pages that would identify G-14. Cal did not forget the boat. Someone taught him which pages to remove.
+- The winch marks match the story Cal keeps stepping around: G-14 was not drifting loose. It was handled in a hurry.
+- The photo shows Mina with Silas beside the jukebox. A token is taped behind the frame, exactly where a regular would hide it.
+- The counter smells like coffee burned down to memory. Mina watched more from here than she has admitted yet.
+- The storm-night receipt line puts Mina behind the counter when Cal says everyone had gone home. Another small lie gets a timestamp.
+- Inside the matchbook, four tiny staff marks line up like a phrase waiting for a melody.
+- The Choir Special slot is empty. It needs one of the old Gull tokens.
+- The jukebox coughs, catches, and plays four notes followed by a low bell tone. It is too deliberate to be a song fragment.
+- The hymn board is only a scatter of numbers until the melody gives them an order. Four slots are worn smooth by repeated hands.
+- The rubbing is clear now: the hymn numbers form a frequency sequence for the WQWR console.
+- You hum the diner phrase under your breath and trace the matching hymn slots. The numbers resolve into a WQWR frequency pattern.
+- The console locks onto the hidden frequency. The signal is not coming from the chapel. It is being thrown from the lighthouse.
+- The signal panel is active, but Theo is watching from the keeper shed steps. Better hear his version before touching the wiring.
+- The signal panel is aligned now. The relay noise points toward the hidden box behind the lighthouse supports.
+- You rotate the alignment dial back to Silas's hymn-frequency sequence. The panel stops warbling, and a second relay clicks awake behind the tower.
+- The relay box is locked by a powered latch. The signal panel likely controls it.
+- Inside the relay box is a modern transmitter, warm from use and taped into the old lighthouse circuit. The haunting has fresh parts.
+- The keeper cache is locked with a newer hasp. The relay box's power line runs behind it.
+- Inside the cache, a burned keeper log page names Nora's father as the one who hid evidence after Silas vanished. Beneath it is a brass service key cut for WQWR's archive lock.
+- The index still points to one missing tape fragment and a service tunnel notation under the chapel.
+- The archive index ties Silas, the lighthouse relay, and a missing tape fragment to one notation: service tunnel under chapel, low tide only.
+- The splice table confirms the tape was handled after Silas recorded it. The empty reel cans match the missing fragment's width.
+- The newer cable is easy to follow now. It leaves the old chapel relay and disappears toward the sealed broadcast room.
+- The original relay cable is black with age, but a newer line has been braided into it. The ghost signal is being routed from somewhere beyond the tunnel bend.
+- The recovered tape fragment is safe in your bag. What matters now is where the tunnel's cable leads.
+- The fragment is important, but the cable run will tell you why someone hid it here.
+- You lift the tape fragment before the water can take it. The splice mark matches the archive table, and Silas's last recording is no longer whole by accident.
+- The old pressure door gives half an inch and stops. The relay cable is live, but the tape fragment is the only proof worth carrying through it.
+- The pressure door is unsealed now. The relay room waits beyond the tunnel bend.
+- You brace your shoulder against the pressure door. It groans open, and the cable noise becomes a voice-shaped hum from the buried relay room.
+- Vivian and Theo are still waiting by the transmitter. The evidence packet is ready, and neither of them can pretend this is weather anymore.
+- The table has gaps: boat, tide, keeper, transmitter, tape. The final broadcast will only hold if every piece is here.
+- If you make this public, you do not control what the island does next.
+- The transmitter is live, but it is only a delivery system. The final choice has to wait until the evidence packet is assembled on the table.
+- The recovered fragment completes the tape's shape. What remains is deciding whether the island hears it over WQWR or under oath.
+- The transmitter can carry a signal, but without the proof packet it would only make another ghost story.
+- The public broadcast has already gone out. Wren Island cannot unhear it.
+- By morning, every diner booth, dock shed, and chapel pew has heard the truth. It is messy, public, and impossible to bury.
+- The case is close, but not court-proof yet. The packet has to come first.
+- The testimony packet is sealed. The island will learn the truth under oath, not over static.
+- The room falls quiet without becoming peaceful. Some truths need a broadcast. Some need a witness who survives.
+- That does not connect cleanly. The evidence needs the right place, not just the right suspicion.
+- The format is close, but this machine is not the one that can prove it yet.
+- The tape needs a reader, a splice point, or a broadcast path. This is only scenery for it.
+- The shape is wrong for this lock. The island was careful about which keys opened which secrets.
+- No latch, slot, or keyway answers here.
+- The pattern belongs nearby, but not in that order. The clue needs a matching dial, song, or board.
+- The numbers are useful only where something can translate them.
+- The packet matters here, but the final choice needs a deliberate action, not a casual tap.
+- The packet is complete. Using it here would only scatter the chain of custody.
+- This clue belongs in the case, but it needs the rest of the chain before it proves anything here.
+- The evidence is real. This spot simply cannot answer it.
+- Nora studies it, but it does not open a new line of questioning yet.
+- Nora cannot verify the tape by looking at it. It needs a machine, a splice point, or the final relay path.
+- Nora has no use for the key. The lock it fits is the witness you need.
+- Nora follows the pattern for a moment, then shakes their head. It needs to be played against the right board or dial.
+- Nora looks at the assembled packet and understands the weight of it. The next move is choosing where the truth goes.
+- Nora recognizes the clue, but this is not the piece that breaks their version of the story.
+- Cal studies it, but it does not open a new line of questioning yet.
+- Cal cannot verify the tape by looking at it. It needs a machine, a splice point, or the final relay path.
+- Cal has no use for the key. The lock it fits is the witness you need.
+- Cal follows the pattern for a moment, then shakes their head. It needs to be played against the right board or dial.
+- Cal looks at the assembled packet and understands the weight of it. The next move is choosing where the truth goes.
+- Cal recognizes the clue, but this is not the piece that breaks their version of the story.
+- Mina studies it, but it does not open a new line of questioning yet.
+- Mina cannot verify the tape by looking at it. It needs a machine, a splice point, or the final relay path.
+- Mina has no use for the key. The lock it fits is the witness you need.
+- Mina follows the pattern for a moment, then shakes their head. It needs to be played against the right board or dial.
+- Mina looks at the assembled packet and understands the weight of it. The next move is choosing where the truth goes.
+- Mina recognizes the clue, but this is not the piece that breaks their version of the story.
+- Orlan studies it, but it does not open a new line of questioning yet.
+- Orlan cannot verify the tape by looking at it. It needs a machine, a splice point, or the final relay path.
+- Orlan has no use for the key. The lock it fits is the witness you need.
+- Orlan follows the pattern for a moment, then shakes their head. It needs to be played against the right board or dial.
+- Orlan looks at the assembled packet and understands the weight of it. The next move is choosing where the truth goes.
+- Orlan recognizes the clue, but this is not the piece that breaks their version of the story.
+- Vivian studies it, but it does not open a new line of questioning yet.
+- Vivian cannot verify the tape by looking at it. It needs a machine, a splice point, or the final relay path.
+- Vivian has no use for the key. The lock it fits is the witness you need.
+- Vivian follows the pattern for a moment, then shakes their head. It needs to be played against the right board or dial.
+- Vivian looks at the assembled packet and understands the weight of it. The next move is choosing where the truth goes.
+- Vivian recognizes the clue, but this is not the piece that breaks their version of the story.
+- Theo studies it, but it does not open a new line of questioning yet.
+- Theo cannot verify the tape by looking at it. It needs a machine, a splice point, or the final relay path.
+- Theo has no use for the key. The lock it fits is the witness you need.
+- Theo follows the pattern for a moment, then shakes their head. It needs to be played against the right board or dial.
+- Theo looks at the assembled packet and understands the weight of it. The next move is choosing where the truth goes.
+- Theo recognizes the clue, but this is not the piece that breaks their version of the story.
+- The scraped label only shows three letters under the glue: S. W. R. The tape smells faintly of mildew and machine oil.
+- The case label was scraped clean in careful passes. Whoever hid the tape wanted the recording found before its title was understood.
+- A corroded brass cleat tag stamped G-14. Cal tried to scrape the number flat, but the groove still catches under your thumbnail.
+- A torn tide chart with one departure window circled in grease pencil. It proves the storm-night boat could leave Gull Point.
+- A blue grease pencil from the archive splice table. The color matches the marks on the tide chart and tape path notes.
+- A Gull's Nest matchbook with a phone number and four tiny staff marks pressed into the inside flap.
+- A tarnished diner token, heavy enough to sound like a coin but stamped with a little gull instead of a denomination.
+- A charcoal rubbing from the chapel hymn board. Four worn hymn numbers line up with the diner melody.
+- A ledger page with the G-14 registration line removed from the sequence. The missing page is almost louder than a confession.
+- A compact relay module with fresh heat scoring, weatherproof tape, and a manufacturer mark far too new for the old lighthouse equipment.
+- A cracked relay fuse from the lighthouse panel. The old circuit failed naturally, but something newer kept the signal alive.
+- A scorched keeper log page naming Nora's father as the person who hid evidence after Silas vanished, not the person who killed him.
+- A brass service key stamped with both the lighthouse crest and WQWR archive-room notches.
+- A water-damaged reel fragment from below the chapel. Its splice mark lines up with the missing segment in WQWR's archive index.
+- A second tape segment recovered from the relay deck. It confirms Silas's final recording was cut in more than one place.
+- Leader tape and adhesive strips from the archive worktable. The materials match the splice scars on the recovered Silas fragments.
+- A rough sketch of the cable run under the chapel, showing where the old line was braided into the modern relay.
+- A complete packet tying the boat, tide window, keeper log, transmitter hardware, and Silas tape fragment into one broadcast-ready proof chain.
+- An unlabeled reel was left cued in the WQWR booth. The title was scraped away, but the remaining letters may point to Silas Wren.
+- The tape triggered a broadcast in Silas Wren's voice. It named Elliot, mentioned a boat, and connected Nora to the Drowned Choir.
+- Nora did not seem surprised by Silas Wren's voice. She deflected the question toward Cal Rusk at Gull Point Harbor.
+- Cal says he was too young to remember the storm-night boat, but he answered before the question was finished.
+- The harbor gauge records a usable tide window during the hour locals claim no boat could leave Gull Point.
+- A brass cleat tag was hidden near the old dock. The number could identify which boat tied up on the storm night.
+- Workshop Registration Ledger
+- Cal kept old boat registration notes in the workshop. Several pages were torn out around the week Silas vanished.
+- Pressed with the cleat tag and tide evidence, Cal admitted he saw a child near the dock before the storm-night boat left.
+- The tide chart scrap gives a narrow departure window for the boat tied to G-14. It points toward the diner witnesses and the chapel rumor.
+- Mina remembers the Drowned Choir as a tune Silas asked callers to hum on storm nights, not as a ghost story.
+- An old photo shows Mina, Silas, Nora, and a chapel choir group beside the diner jukebox. The caption marks the storm week.
+- The jukebox plays a four-note phrase that matches the marks inside the diner matchbook. It may map to the chapel hymn board.
+- Orlan says the chapel kept old hymn numbers as a memory aid, but he warned that Silas treated them like a dial.
+- The diner melody maps to four chapel hymn numbers. The sequence looks less like music and more like a station code.
+- The hymn numbers convert into a WQWR frequency pattern. The Drowned Choir was likely a signal, not a haunting.
+- Entering the hymn-frequency pattern into WQWR pulled in a hidden relay. The signal points to the lighthouse grounds and an active transmitter.
+- Theo March was already at the lighthouse and too ready to explain the relay as preservation equipment. His story may be true, but it is rehearsed.
+- The lighthouse signal panel was deliberately misaligned to bounce the choir frequency toward the chapel. Correcting it exposed a second relay path.
+- A modern transmitter was hidden inside the old relay box. Someone is actively recreating the Drowned Choir, not merely preserving old equipment.
+- The keeper log says Nora's father hid station evidence after Silas vanished, but it also places him at the lighthouse after the boat left. He covered up the crime; he may not have committed it.
+- The lighthouse service key opens the WQWR archive room. The station and lighthouse shared access because the old relay system crossed both sites.
+- The archive index links Silas, the lighthouse relay, and a missing tape fragment. The next trail points below the chapel, toward the service tunnel.
+- Under-Chapel Service Tunnel
+- The service tunnel under the chapel still carries old relay cabling. Newer wiring has been braided into the original line, feeding the ghost signal from below.
+- A damaged tape fragment was hidden beside the tunnel junction box. It appears to be the missing splice from Silas Wren's archive recording.
+- The sealed relay chamber under the chapel is still live. Vivian and Theo were not chasing a ghost; they were protecting a modern reconstruction of Silas Wren's last signal.
+- The final proof chain is assembled: cleat tag, tide window, keeper log, transmitter module, and Silas tape fragment. It is enough to broadcast publicly or preserve for sworn testimony.
+- Elliot used WQWR to broadcast the evidence across Wren Island. The truth could not be quietly buried again, but the living witnesses will face the storm in public.
+- Ending: Protected Testimony
+- Elliot preserved the evidence for protected testimony first. The truth moves slower this way, but Nora, Cal, and the remaining witnesses get a chance to survive it.
+- Silas Wren archive tape through the WQWR console
+- The inciting ghost broadcast names Elliot, Nora, the storm-night boat, and the Drowned Choir.
+- Elliot Vale came back. Good. The child saw the boat.
+- Ask Nora why the choir only sings at low tide.
+- A damaged WQWR field recorder buried in harbor static
+- A short hint broadcast that reframes Cal as a witness and pushes the player from dock evidence toward the diner and chapel.
+- The harbor does not remember lies. It keeps time in rust, rope, and mud.
+- G-14 left when they said no boat could leave. A child watched from the rain barrels.
+- When the coffee lights go out, ask who kept the jukebox singing.
+- Hidden WQWR relay unlocked by the chapel hymn sequence
+- The midpoint broadcast reveals the Drowned Choir as a coded relay and unlocks the lighthouse investigation.
+- Four hymn numbers become four turns of the dial.
+- The Drowned Choir is not under the chapel. It is being repeated through the lighthouse relay.
+- Follow the beam before whoever built it hears you listening.
+- Feedback from the corrected lighthouse relay path
+- A late-game warning that the modern transmitter is active and someone living is maintaining the haunting.
+- The beam was never meant to guide ships. It was meant to carry a voice where no one would look for wires.
+- A dead man cannot solder new copper. A ghost cannot replace a fuse.
+- Find the room below the choir before the living turn the dead against you.
+- Spliced tape fragment played in the underground relay room
+- Silas names the cover-up structure and gives Elliot the last proof needed before the ending choice.
+- If this tape survives, then I was right to hide the splice.
+- The chapel code moved cargo. The lighthouse moved the signal. WQWR was supposed to move the truth.
+- Do not let them make me into thunder. I was a man, and men did this.
+- Elliot Vale live on WQWR from the underground relay room
+- Ending A: Elliot broadcasts the full evidence packet across Wren Island.
+- This is Elliot Vale at WQWR, broadcasting from the relay room beneath the chapel.
+- Silas Wren did not drown when they said he did. His tape was cut, hidden, and rebuilt into a haunting.
+- The evidence is on the air now. Let every locked door on Wren Island answer for itself.
+- Elliot Vale sealing the evidence packet instead of broadcasting it
+- Ending B: Elliot kills the transmitter and preserves the proof chain for protected testimony.
+- Elliot kills the transmitter before the island hears the whole thing.
+- The packet goes into a sealed case: tape, tag, log, transmitter, and every name that tried to turn Silas into weather.
+- The truth will still surface. This time, the living witnesses get to arrive first.
+- Unlogged WQWR dawn transmission
+- The optional haunted button after the rational mystery is solved.
+- At 6:03 a.m., after the station powers down, the meter jumps once.
+- No tape is loaded. No microphone is open. No one is in the booth.
+- Through the carrier tone, Silas Wren says one word: home.
+- A rain-beaten recorder still shows the high-water spike from the night Silas vanished.
+- Compare the storm-night mark against Cal's claimed impossible tide.
+- Match the high-water spike to the dock departure hour.
+- Use the contradiction with the G-14 cleat tag.
+- The tide did not prevent the boat from leaving. Cal's denial has a measurable crack.
+- The brass tag was hidden beneath a split plank, close to the old mooring line.
+- Old island photos crowd the wall. One picture catches Mina, Silas, and the jukebox in the same frame.
+- Coffee oil, old metal, and rain-chilled mugs. Mina kept the counter running through every version of the Silas story.
+- The receipt roll still holds storm-night totals. One cash-out line is circled beside a time Mina pretends not to remember.
+- The Choir Special card glows behind cloudy glass, waiting for one old Gull token.
+- Insert the hidden Gull token from the photo wall.
+- Play the Choir Special card.
+- Listen for four notes followed by the chapel bell.
+- The melody is now evidence. Match it against the chapel hymn board.
+- The faders are set by a hand that knew old WQWR habits. One channel is still waiting for tape.
+- Load the scraped archive tape into the booth machine.
+- Route the tape channel through the console fader.
+- After the hymn-number sequence is known, retune WQWR to the hidden relay.
+- Locked until frequency clue
+- The console is both player and transmitter. Every later signal returns here first.
+- Fresh scrape marks run through years of corrosion. Something heavy was pulled loose here after the storm story should have ended.
+- The registration cards are damp at the edges. G-14 is missing from the run, and the tear is much newer than the paper.
+- A missing slot cuts through the shelf order. The labels around it point to one service-tunnel notation.
+- Read the shelf labels around the missing reel.
+- Compare the gap to Silas Wren's archive sequence.
+- Follow the service-tunnel notation below the chapel.
+- The archive does not end at WQWR. It points under the chapel.
+- Grease pencil, leader tape, and two empty cans sit ready. The table was used to remove something, not restore it.
+- Inspect the grease-pencil marks beside the empty cans.
+- Compare the leader tape to the recovered fragment scars.
+- Use the table to prove the recording was edited after the fact.
+- The table makes the missing tape segment feel less lost and more cut.
+- A weatherproof cache tucked into the lighthouse service clutter. The newest hasp hides a burned keeper page and WQWR's archive key.
+- Fresh electronics sit inside old metal, taped into the lighthouse circuit like a confession disguised as maintenance.
+- Old relay cable and modern wire braid together through the wet stone, turning the chapel into part of the fake haunting.
+- The tape fragment is slick with tidewater. Its splice mark matches the archive table's grease pencil scar.
+- The pressure door breathes cold air around its frame. Beyond it, the relay hum stops sounding like machinery and starts sounding like intent.
+- Salt and candle soot have darkened the numbers, but four slots are worn smooth from being touched in sequence.
+- Use the diner melody as the order.
+- Read the worn hymn slots from left to right.
+- Carry the resulting pattern back to WQWR.
+- The hymn board is not a memorial. It is a frequency key.
+- The panel is older than the new screws around it. Rain beads on the dial marks like someone aligned it minutes ago.
+- Match the panel to Silas's hymn-frequency sequence.
+- Listen for the second relay click behind the tower.
+- Open the hidden transmitter box after the panel settles.
+- The ghost signal is being repeated through modern hardware.
+- Every proof line has a physical anchor now: boat, tide, keeper, transmitter, and the recovered tape.
+- Tie the cleat tag to the storm-night boat.
+- Use the tide window to prove the boat could leave.
+- Add the keeper log, relay module, and Silas tape fragment.
+- The case is complete enough for either public broadcast or protected testimony.
+- The relay is already warm. It was built to carry one signal through stone, tide, and weather.
+- Confirm the modern module is feeding the old relay path.
+- Trace the output through the chapel cable run.
+- Hold the final switch until the evidence packet is complete.
+- The transmitter can carry the ending, but it cannot decide which ending is right.
+- The tape path exposes the cut. Silas's final denial was not lost to age; it was removed.
+- Compare the splice mark to the recovered tunnel fragment.
+- Line the fragment against the deck path.
+- Confirm that the missing section was deliberately removed.
+- Silas's tape was edited after recording. The recovered fragment restores the proof chain.
+- The transmitter controls are wet with tunnel air. One live switch can turn private proof into public testimony.
+- Ending Path: Public Expose
+- Verify the evidence packet is assembled.
+- Route the relay through the public WQWR carrier.
+- Commit the proof to every radio still listening.
+- Witnesses exposed immediately
+- Truth cannot be buried quietly
+- This ending favors speed, pressure, and public accountability.
+- The evidence waits under the relay light: enough to speak now, or enough to survive until morning.
+- Ending Path: Protected Testimony
+- Seal the proof chain before Vivian can reframe it.
+- Keep the relay dark long enough to protect witnesses.
+- Move the case into sworn testimony at sunrise.
+- Court record / protected witnesses
+- This ending favors survival, order, and testimony that can hold.
+- Storm nights make every old machine dramatic. Start with the tape machine. Then we can both go home.
+- Silas had a flair for cruelty. If he mentioned a boat, Cal Rusk would know why.
+- Go to Gull Point Harbor and ask Cal about the storm-night boat.
+- Storm-night boat? Half this island saw boats in that storm, and half of them were lying to sound brave. I was a kid. I remember rain, not names.
+- Inspect the harbor for proof Cal's memory is not as blank as he claims.
+- Put that down. G-14 was not supposed to be on that dock anymore. If you found it, then somebody wanted this dragged up.
+- Use the tide gauge and workshop records to pin down the storm-night departure.
+- Fine. I saw the child. Little raincoat by the west dock, watching G-14 pull loose like they knew it would. Mina heard the same story before I learned to shut up. The chapel rumor started that week.
+- Go to Gull's Nest Diner or the Chapel Ruins to follow Cal's lead.
+- Cal finally said it out loud? Mercy. The choir song was not a ghost, honey. Silas used to ask us to hum it into the phone line like a station jingle.
+- Search the diner for the song's pattern.
+- That is the phrase. Four notes, then the chapel bell. If Orlan kept the old hymn board, those notes should still have numbers.
+- Take the melody clue to the Chapel Ruins.
+- The chapel remembers too much. If you came for the choir, bring me the tune first. Numbers without music are only scratches on wood.
+- Find the choir melody in the diner before reading the hymn board.
+- You heard it, then. Four notes and the bell. The hymn board kept the same order because Silas needed islanders to remember it without knowing what they carried.
+- Use the choir melody on the chapel hymn board.
+- Silas said a hymn can hide a frequency if everyone is too frightened to listen. Take those numbers back to WQWR.
+- Return to WQWR and test the frequency sequence.
+- Careful around the panel. Preservation board wired a few sensors into the old relay box, that's all. If WQWR heard anything, it was probably the storm pulling tricks through bad grounding.
+- Inspect the lighthouse signal panel while Theo is distracted.
+- That module is not mine. Lots of people have keys to the grounds. Vivian Cross funds half the restoration work; ask her where the new hardware came from.
+- Use the transmitter module to pressure Vivian or find the keeper log.
+- You think a broadcast is justice because you grew up listening to men make themselves brave on microphones. I kept this island solvent after Silas tried to burn every family name to the ground.
+- Choose whether to broadcast the evidence publicly or preserve it for protected testimony.
+- Yes, the relay was maintained. Yes, I paid for parts. But Silas found smuggling, theft, blackmail, names that still own storefronts. If you put that on air, you do not get to pick who drowns next.
+- I lied because preservation money has strings, and Vivian tied mine tight. The relay logs are in the rack. If you protect the packet, I testify. If you broadcast it, I show the island where to look.
+- Whatever you choose, do it before she calls this restoration again. The machine is live, the logs are intact, and I am done being useful to the wrong person.
+- A storm-dark broadcast booth where every machine seems to be waiting for Silas Wren.
+- The old radio station is Elliot’s base of operations: tape machines, archive shelves, storm windows, and the console that turns buried evidence into a signal the island can hear.
+- A rain-lashed dock where Cal Rusk’s childhood memory starts to contradict the tide.
+- The harbor gathers the storm-night boat evidence: a tide gauge, a hidden G-14 cleat tag, workshop ledgers, and the first living witness who knows the Drowned Choir began as something human.
+- Find Cal Rusk near the harbor sheds.
+- A warm counter full of photographs, old gossip, and a jukebox song that behaves like a key.
+- Mina Bell’s diner preserves the social memory of Wren Island. Its photo wall, matchbook marks, register tape, and Choir Special jukebox selection translate rumor into a usable pattern.
+- Low-tide stones where hymn numbers hide a broadcast frequency.
+- The chapel ruins hold the island’s oldest cover story. Father Orlan guards a warped hymn board that turns Mina’s melody into the numbers needed to wake the lighthouse relay.
+- A cliffside relay site where old preservation hardware has fresh heat in it.
+- The lighthouse grounds reveal the modern side of the haunting: Theo’s rehearsed explanations, a signal panel, a hidden transmitter module, and a keeper cache that ties Nora’s family to the cover-up.
+- Find the relay hardware around the lighthouse.
+- A low-tide service passage where copper cable carries the ghost story under the chapel.
+- The tunnel turns the Drowned Choir into infrastructure. Its cable run, wet stone, and tape fragments prove the signal was routed through a hidden path below the island’s sacred story.
+- Trace the service cable and find the missing tape fragment.
+- A buried relay chamber where the proof chain becomes a choice.
+- The final room gathers transmitter hardware, splice evidence, Vivian’s pressure, Theo’s testimony, and the completed evidence packet before Elliot chooses public exposure or protected testimony.
+- Assemble the final evidence packet in the relay room.
+- Find the tape Nora left cued in the booth.
+- That scrape is too careful for panic. Someone wanted the reel anonymous, but not destroyed. That is a very WQWR kind of cowardice.
+- Archive grease pencil and leader tape. If those match the cuts on Silas's reel, then the station helped edit a dead man into a ghost.
+- My father hid evidence. I have spent years making that sentence smaller. It is not smaller anymore.
+- That page should have stayed gone. G-14 was not just a boat number. It was the last thing I saw before everyone started teaching me what not to remember.
+- I said the tide made it impossible because that is what adults kept saying around me. The chart says they were lying, and I repeated it.
+- That tunnel line explains why the chapel rumor spread so fast. The sound was never only in the water. It had copper under it.
+- We used those matchbooks for everything: tabs, phone numbers, little lies. Those four marks are Silas turning a tune into directions.
+- That token came from behind the photo frame? Then someone wanted the Choir Special played again, but only by a person nosy enough to find it.
+- Cal kept ledgers because numbers felt safer than memory. If this line is missing, it is because the number still had teeth.
+- Those numbers were meant to guide singing, not signals. Silas understood that shared memory is the easiest place to hide a machine.
+- The old service line runs below the stones because the chapel once sheltered storms, not secrets. Someone reversed its purpose.
+- A fragment is still testimony if the cut around it is honest. Bring the pieces where a recorder can confess what people would not.
+- The old fuse was dead before I ever touched the box. That is why the new module scared me. Someone bypassed history instead of repairing it.
+- That module is the part I recognized and pretended not to. I did not install it, but I knew what it meant when the lighthouse started answering WQWR.
+- If you seal it, I testify. If you broadcast it, I tell them where the relay logs are. Just do not let Vivian be the first voice they hear.
+- A modern transmitter proves maintenance, not murder. Be precise, Elliot. Precision is what keeps accusations from becoming another storm story.
+- That page is the reason I kept the relay contained. Nora's father hid evidence, Cal hid memory, Orlan hid numbers. I inherited a disaster with everyone's fingerprints already on it.
+- Fragments are dangerous because people mistake them for whole truths. Silas knew enough to ruin lives, not enough to understand what happened after he disappeared.
+- If that packet goes public, you are choosing spectacle. If it goes under seal, at least the living witnesses get a chance to survive their own testimony.
+- Play Nora's archive tape before leaving the station.
+- Finish the harbor investigation before following the inland roads.
+- Find and test the hidden WQWR frequency before climbing to the lighthouse.
+- Unlock the tunnel route from the WQWR archive index.
+- Recover the missing tape fragment before entering the final broadcast room.
+- Find the next lead before leaving this area.
+- The storm road is just weather until Nora's tape gives Elliot a reason to step outside.
+- The diner lights glow farther inland, but the harbor evidence still has to prove where the next road leads.
+- The chapel path is lost in rain until the harbor story gives it shape.
+- The lighthouse beam keeps sweeping the cliffs, but the signal has not pointed there yet.
+- The tide is low, but the service opening stays hidden until the archive index names it.
+- The pressure door holds fast. The missing tape fragment is the only proof worth carrying through it.
+- That route is not useful yet.
+- Use the radio console to play the archive tape.
+- You lift the archive tape from the machine. A strip of label glue clings to the case, but the title has been scraped away.
+- Use the workshop records and dock evidence to identify the storm-night boat.
+- Confront Cal with the dock cleat tag.
+- Use the jukebox token on the Choir Special.
+- Take the jukebox melody to the chapel hymn board.
+- The console has gone quiet again. The last waveform still glows on the monitor like a pulse.
+- Ask Nora about the boat and the Drowned Choir.
+- The signal dies with a soft click. Nora has gone very still.
+- The console is ready, but the tape deck is empty. Whatever Nora left cued needs to be loaded first.
+- Go to the Lighthouse Grounds and find the active relay.
+- Inspect the relay box behind the lighthouse supports.
+- Talk to Theo before opening the lighthouse signal panel.
+- Confront Theo with the modern transmitter module.
+- Align the lighthouse signal panel before opening the relay box.
+- Use the lighthouse service key on the WQWR archive door.
+- Find what the lighthouse relay is hiding before searching the keeper cache.
+- Go to the under-chapel service tunnel at low tide.
+- Search the tunnel junction for the missing tape fragment.
+- Find the sealed broadcast room beyond the tunnel bend.
+- Trace the tunnel cable before disturbing the wet tape fragment.
+- Enter the final broadcast room and assemble the proof.
+- Recover the missing tape fragment before forcing the sealed broadcast room.
+- Face Vivian and Theo, then choose how Elliot ends the case.
+- Gather the missing proof before assembling the final packet.
+- Ending reached: Public Expose.
+- WQWR broadcasts again at dawn. Nora thanks Elliot like someone still deciding whether gratitude is a confession.
+- At the diner, Cal leaves a repaired radio on the counter and never asks who turned it on.
+- The lighthouse beam crosses calm water. After the station shuts off, Silas Wren speaks one impossible word through the static: home.
+- Music: Horror Loop by TinyWorlds, CC0
+- Music: Lost in a bad place by congusbongus, CC0
+- Music: Spooky loop & bomba32 by glitchart, based on CC0 tracks by wipics and StumpyStrust
+- Voice and generated game art produced for this prototype.
+- Assemble the final evidence packet before choosing an ending.
+- Ending reached: Protected Testimony.
+- WQWR stays dark long enough for sworn statements, chain-of-custody bags, and Nora Pike finally saying her father out loud.
+- Cal repairs the diner radio anyway. By sunrise, it catches only weather, gulls, and one clean station tone.
+- The lighthouse beam moves over calm water. After the official recorder clicks off, Silas Wren whispers one impossible word: home.
+- Arial, Helvetica, sans-serif
+- Investigator and former Wren Island resident
+- Elliot returns to Wren Island after years away, pulled back by a WQWR signal that knows his name.
+- He grew up around the station, Nora, and the old island stories, which makes every clue feel personal before it feels safe.
+- Elliot has to choose whether truth is safer in public or protected long enough for witnesses to survive it.
+- WQWR engineer and reluctant gatekeeper
+- Nora keeps WQWR running with practical hands and a sharp eye for storms, signals, and questions she would rather not answer.
+- Her father appears in the keeper log as a cover-up participant after Silas vanished.
+- Nora knows which parts of the story protect the living and which parts only protect old guilt.
+- Missing broadcaster at the center of the Drowned Choir
+- Silas Wren was the voice WQWR never fully buried: charismatic, cruel when cornered, and obsessed with signals that could outlive him.
+- His last recording names the boat, the child witness, Nora, and the low-tide choir pattern.
+- Silas left proof behind, but every surviving fragment has been edited, hidden, or turned into a ghost story.
+- Harbor mechanic and childhood witness
+- Cal knows the harbor by sound and tide, but he claims the storm-night boat is just a childhood blur.
+- The G-14 dock tag, tide gauge, and workshop ledger all point back to the night he says he barely remembers.
+- Cal breaks when evidence turns his memory from folklore into witness testimony.
+- Owner of Gull's Nest Diner and keeper of island gossip
+- Mina remembers the island through coffee refills, old photos, and who stopped talking when a name was mentioned.
+- She identifies the Drowned Choir as a remembered tune, not a haunting, and points Elliot toward the diner jukebox.
+- Mina knows which stories are comfort and which stories were taught to make people stop asking questions.
+- Chapel caretaker and reluctant archivist
+- Orlan treats the chapel ruins like a living witness: damaged, inconvenient, and still owed respect.
+- He understands that the hymn board carried a frequency pattern because Silas hid signals in communal memory.
+- Orlan is afraid that proving the pattern also proves how many people helped preserve it.
+- Lighthouse preservation volunteer and nervous technician
+- Theo presents himself as a helpful preservation volunteer with convenient explanations for inconvenient equipment.
+- He understands the relay system well enough to lie about it badly, then redirects suspicion toward Vivian.
+- Theo wants protection more than absolution, and the right evidence can turn him from deflector to witness.
+- Restoration funder and final pressure point
+- Vivian funds the island restoration projects that decide which history becomes polished and which history stays sealed.
+- The modern transmitter, keeper log, and final relay room all point toward curated preservation as a cover for active suppression.
+- Vivian is most dangerous when the truth becomes public before she can frame it as stewardship.
+- Play the scraped archive tape
+- Recover the reel from the tape machine, then run it through the WQWR console.
+- Break Cal Rusk's harbor denial
+- Tie G-14 to the dock, prove the tide window, then press Cal with the workshop records.
+- Translate the Drowned Choir melody
+- Use the diner photo token on the jukebox, then match the four-note phrase to the chapel hymn board.
+- Test the hymn frequency at WQWR
+- Return to the radio console with the hymn-number sequence and tune the hidden relay.
+- Expose the lighthouse relay hardware
+- Talk to Theo, align the signal panel, recover the transmitter module, then search the keeper cache.
+- Open the WQWR archive room
+- Use the lighthouse service key on the WQWR archive handle, then inspect the tape index.
+- Recover the missing Silas tape fragment
+- Trace the live cable run before lifting the wet tape fragment, then force the relay-room pressure door.
+- Assemble the final proof chain
+- Bring boat, tide, frequency, transmitter, keeper-log, and tape-fragment evidence together at the final relay-room table.
+- Choose the final broadcast path
+- Use the completed evidence packet to either broadcast publicly or preserve the proof for protected testimony.
+- The Tape That Should Not Exist
+- Wake the WQWR console and prove Silas Wren is more than an island story.
+- Elliot returns to the radio booth, finds the scraped archive tape, plays the night signal, and hears Silas name the boat, Nora, and the Drowned Choir.
+- Break Cal Rusk's denial with physical harbor evidence.
+- The G-14 cleat tag, tide gauge, and workshop ledger prove a boat could leave during the storm and push Cal into admitting he saw a child witness.
+- Translate the Drowned Choir from legend into a frequency sequence.
+- Mina's memory, the diner jukebox, and the chapel hymn board turn the choir song into numbers that can retune WQWR toward the hidden relay.
+- Expose the modern relay hardware and reopen the station archive.
+- Theo's rehearsed help, the signal panel, the transmitter module, and the keeper log reveal a new haunting built on top of an old cover-up.
+- Recover the missing tape proof, confront Vivian, and choose how the truth reaches shore.
+- The under-chapel cable run and final relay room complete the proof chain before Elliot chooses a public expose or protected testimony.
+- Resolve the case while leaving one impossible signal unanswered.
+- WQWR broadcasts again, witnesses survive or face the public storm, and Silas leaves one final line that the rational solution cannot fully explain.
+- Track the broadcast and follow the evidence.
+- Esc closes menus. Space or Enter skips active dialogue text.
+- Recovered broadcast scripts
+- No entries in this section yet.
+- Secondary objects strengthen the case and unlock stronger interrogation context.
+- Puzzle dependency progress
+- Signal locked. Follow the current proof chain to open this location.

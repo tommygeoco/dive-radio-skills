@@ -1,0 +1,21 @@
+Ground truth for the test: how the live page is actually split.
+Pulled 2026-10-03 from the public files of https://backyarddesigners.club (index HTML, assets/main-*.css, assets/main-*.js, assets/title-backdrop-*.js, assets/scene-environment-*.js). Hash suffixes removed. Read-only; nothing was changed on the site.
+
+Image files named in the CSS and JS:
+- Title sign: title-sign.webp, title-sign-lettered.webp (an <h1> with the art as <img alt=""> plus hidden live text "Backyard Designers")
+- Tagline paper: tagline-paper.webp (the tagline sentence also appears as text in the page)
+- Button board: board-teal-2bolt.webp
+- Dive sign: dive-sign@1x.webp
+- Credit plaque: credit-plaque.webp
+- Fence: fence-display.webp, fence-display-z.webp, fence-display-twilight.webp, fence-display-night.webp; fence rails rail-0..rail-4.webp with -twilight and -night versions
+- Grass: grass-band.webp, used with CSS repeat-x over a linear-gradient(#334116, #2b3a14)
+- Wood: walnut.webp (CSS background-repeat: repeat), container-planks.webp, container-board.webp (CSS border-image, "round")
+- Icon buttons: iconframe-idle.webp, iconframe-hover.webp, iconframe-down.webp (one frame per button state)
+- Scene props: bench.webp, bush.webp, flowerbed-daisy.webp, flowerbed-wild.webp, grass-tuft.webp, pot-green.webp, pot-pink.webp, rocks-lg.webp, rocks-sm.webp, watering-can.webp
+- Characters: ridd-ladder.webp, tommy-hammer.webp
+- Fonts: lilita-one-latin.woff2, nunito-latin-var.woff2
+
+Code, not images:
+- Sky: a CSS linear-gradient built from a time-of-day palette in an inline script (skyGradient), with a sky module loaded separately
+- Tree: its own module with a parallax function (parallaxSceneEnvironment)
+- Time of day: night and twilight image variants swapped by CSS classes (ti-tod-tw, ti-tod-nt)
